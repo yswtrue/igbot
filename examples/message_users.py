@@ -18,7 +18,7 @@ sys.path.append(os.path.join(sys.path[0], "../"))
 from instabot import Bot  # noqa: E402
 
 instaUsers = ["R1B4Z01D", "KoanMedia"]
-directMessage = "Thanks for the example."
+directMessage = "Hello."
 
 messagesToSend = 100
 banDelay = 86400 / messagesToSend
